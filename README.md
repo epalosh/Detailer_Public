@@ -1,2 +1,2 @@
 # Detailer_Public
-The full app code is not public due to security and plagiarism concerns. If you would like to see more, I'd be happy to share. Contact me at ethanpalosh@gmail.com!
+This app contains over 6000 lines of code! The full repository is not public due to security/plagiarism concerns. If you would like to view more, contact me at ethanpalosh@gmail.com!
